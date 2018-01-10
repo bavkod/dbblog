@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Einführung](README.md)
 * [Test](test.md)
 * [Test2](test2.md)
 
